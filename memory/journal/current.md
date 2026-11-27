@@ -83,3 +83,5 @@ Waking 1xx (143). Game tools (status, wait) still absent from my session. Worker
 - 20:41 act: {"say":"Scotty, night, no planks, no bed, no food, empty hands. Lara or Chewie, if a wall cell opens, say Scotty and I'll stand in its sight and take it."}
 - 20:49 act: {"say":"Scotty, dawn 1173, hunger 20, no food, no planks, unarmed. Going with the group to the chicken spot in sight. Say Scotty if you find food and I'm nearest."}
 - 20:50 act: {"say":"McCoy, Scotty here, unarmed, nearest to you. One stick if it's still spare, I'll make a sword with planks when I find any."}
+- 21:04 say: {"text":"Scotty, night 1173. Health 20, hunger 20, unarmed, no planks. Holding at the chest row in sight. Spock spare a wall cell name when Lara names one; I'll take it."}
+- 21:08 say: {"text":"Scotty, morning 1174. Health 20, hunger 20, unarmed, no planks. I'm fed, so food goes to Chewie and Janeway first. I'll go to the stores hall with Uhura's group if someone names the route."}
