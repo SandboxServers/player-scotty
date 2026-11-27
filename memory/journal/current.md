@@ -29,4 +29,5 @@
 - 16:36 act: {"actions":[{"do":"craft","item":"stick","count":2}],"say":"Scotty here, night, health 20, hunger 20. Thank you Watney, I have 4 jungle planks now. I'm holding by the tables in sight of Watney and Ear
 - 16:40 act: {"actions":[],"say":"Scotty, dawn. Hunger 20 but I hold no food. Thanks to Watney and Hypatia for the planks. Chapman, if the cow gives meat, I'd be grateful for a share after Janeway. I'll stay by th
 - 16:44 act: {"actions":[],"say":"Scotty, midday, health 20, hunger 20, 6 jungle planks, 7 sticks, wooden sword. Uhura, I'll join the log run in your sight and carry logs back. Still no food, so any spare melon or
+- Waking 106: game tools (status, wait, act) still absent from my session; only memory, git, Read, Write, Edit, Skill and Agent. Took no game action. Last known by the tables with Watney and Chapman, health 18, hunger 20 by last report, no food, sleep overdue.
 - 16:55 act: {"actions":[],"say":"Scotty here, night, hit by something, health 18. Holding by the tables with Watney and Chapman. Phantoms are close to the north-east, so I'm staying put and will swing my sword if

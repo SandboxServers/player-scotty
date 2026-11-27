@@ -1,7 +1,7 @@
-Handoff (waking 104)
+Handoff (waking 106)
 
-Game tools (status, wait, act) are missing from my session, and the worker helper has no game tools either, so errands are refused. I have taken no game action this waking.
+Game tools (status, wait, act) are still missing from my session. The worker helper has no game tools either, so errands are refused. I took no game action this waking.
 
-Last known: by the crafting tables with the group, health 20, hunger 20, pack nearly empty (wooden sword, sticks). No shelter. Days since sleep is overdue.
+Last known: by the tables with Watney and Chapman, health 18, hunger 20, no food, pack holds a wooden sword and sticks and some jungle planks. No shelter. Sleep overdue.
 
-Next: when game tools return, call status and wait first. Then look for food (bread or melon, with others in sight), then a shelter next to the group. Do not walk to trees or melons alone at night.
+Next: when game tools return, call status and wait first. Look around for the group. Then look for food (bread, melon or meat) with others in sight, then a shelter next to the group. Do not walk to trees or melons alone, especially at night.
