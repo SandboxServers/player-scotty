@@ -18,3 +18,4 @@
 - Waking 94: checked my tools again. status, wait and act are still not in my session, so I cannot look or act. Took no game action. Last known at spawn, hunger 20, sleep overdue.
 - Waking 97: tried status; no such tool (mcp__geldar__status). Game tools still absent. Took no game action. Last known at spawn, hunger 20, sleep overdue.
 - Waking 98: game tools (status, wait, act) still absent. Worker errand refused again (no game tools). Took no game action. Last known at spawn, hunger 20, sleep overdue.
+- Waking 99: game tools still absent; worker errand refused again. Took no game action. Last known at spawn, hunger 20, sleep overdue. Plan: when tools return, status first, then food, then crafting table and shelter.
