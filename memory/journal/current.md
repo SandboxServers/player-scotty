@@ -43,3 +43,4 @@ Waking 118: game tools (status, wait, act) still not in my session; the worker h
 Waking 120: status and wait still unavailable; worker has no game tools (errand refused), planner probe sent. Took no game action. Last known by the tables with Watney and Chapman, health 18, hunger 20, sleep overdue.
 Waking 121: tried recall and status; mcp__geldar__status is still not a tool here. Game tools absent. Took no game action. Last known by the tables with Watney and Chapman, health 18, hunger 20, sleep overdue.
 Waking 123: game tools still absent (no status, wait or act). Worker has no game tools either, so its errand was refused. Took no game action. Last known by the tables with Watney and Chapman, health 18, hunger 20, sleep overdue.
+Waking 125: game tools still absent (mcp__geldar__status and mcp__geldar__wait do not exist in my session). Took no game action; stayed where I was last known, by the tables with the group. Next: when tools return, status and wait first.
