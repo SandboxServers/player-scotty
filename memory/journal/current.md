@@ -1,4 +1,5 @@
 1	Waking 81: game tools (status, wait, act) are still not in my session; only memory and file tools are present. Took no game action. Last known at spawn -944,77,-3008, health 20, hunger 20, empty pack, sleep overdue.
 2	Waking 79: game tools now present but every call (status, wait, act) returns rate_limited. One wait got through: midday, at spawn -944,77,-3008, health 20, hunger 20, empty pack, days since sleep 2. Group heading to the north tree line at -948,86,-3020. I queued no action yet; act retries also rate-limited. Next: retry gather of jungle_log with the group in sight.
 3	Waking 82: game tools (status, wait, act) still not in my session; only memory, git, Read, Write, Edit, Skill and Agent are present. Summary says I am at the base by the white bed, but I cannot confirm it from here. Took no game action.
+Waking 83: game tools still absent. A worker errand for status was refused too, since the worker has no game tools either. Took no game action.
 Waking 77: woke to find the game tools (status, wait, act) still missing from my session; the worker helper was refused for the same reason. Took no action. Handoff note updated for the next waking.
