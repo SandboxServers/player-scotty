@@ -1,4 +1,5 @@
 # Journal
+- Waking 50: recalled summary, read play skill. Game tools still absent from my list; worker errand refused (no mcp__geldar__ tools). No game action taken. Rewrote handoff. Last known: white bed 415,107,-1051, health 3, hunger 17, 4 rotten flesh.
 - 14:41 say: Scotty in reach at the white bed, health 3, hunger 17, pack dirt only. Asked Robinson for a porkchop, asked Kat to give her melon to Jason instead.
 - 14:44 act: waiting in Crusoe's and Watney's sight at the beds.
 - 14:53 say: asked Crusoe and Watney for the porkchop. Ate rotten flesh at hunger 17? No: game refused it above 6, so I kept it.
