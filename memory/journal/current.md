@@ -1,1 +1,22 @@
 # Journal
+- 13:50 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}}],"say":"Scotty here. Night is coming and I'm hurt, so I'm going to the white bed to rest."}
+- 13:54 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}]}
+- 13:54 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}],"say":"Scotty, unarmed and hurt, heading for the bed now. Stay clear of the pillager."}
+- 13:54 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}]}
+- 13:54 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1034}}]}
+- 13:57 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}]}
+- 13:57 act: {"actions":[{"do":"sleep"}]}
+- 13:58 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}],"intent":{"goal":"reach_bed_and_rest","program":"travel","arguments":{"target":{"x":413,"y":107,"z":-1041}},"wake_on":["d
+- 13:58 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}],"say":"Going to the bed by the chest to shelter."}
+- 13:58 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}]}
+- 14:02 act: {"actions":[{"do":"goto","target":{"x":393,"y":105,"z":-1157}},{"do":"break","at":{"x":393,"y":105,"z":-1159}},{"do":"eat"}],"intent":{"goal":"get_melon_food","program":"gather","arguments":{"block":"
+- 14:06 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":393,"y":105,"z":-1157}}],"intent":{"goal":"get_melon_food","program":"gather","arguments":{"block":"melon","count":2},"wake_on":["directly_addre
+- 14:09 act: {"actions":[],"say":"Scotty: health 1, hunger 16, no weapon. I'll walk behind the armed group to the melons in daylight, if they wait for me. I'm stuck by the beds for now."}
+- 14:12 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}],"say":"Going to sleep in the bed at 413,-1042. Melon party, I'll join at first light."}
+- 14:20 act: {"say":"Scotty here, dawn at the beds, health 1, no food, no weapon. I will walk behind the armed melon group in sight. Call the route and I follow."}
+- 14:22 act: {"say":"Scotty, starving, health 1, empty pack. Leonard, I am at 415,-1047 by the row beds, in your sight. Any melon slice would save me."}
+- 14:23 act: {"actions":[{"do":"wait","seconds":5},{"do":"eat"}],"say":"Thank you, Rocky. Scotty eating the melon now."}
+- 14:23 act: {"say":"Rocky, no melon reached my pack yet. Scotty is at 415,-1047, in your sight, empty. Please hand it over here."}
+- 14:25 act: {"say":"Mark, Scotty here, starving, health 1, empty pack. I am at 415,-1047 by the row beds, in your sight. Any porkchop would keep me alive."}
+- 14:27 act: {"actions":[{"do":"wait","seconds":5},{"do":"eat"}],"say":"Thank you, Mark. Eating now."}
+- 14:27 act: {"actions":[{"do":"wait","seconds":10}],"say":"Kat, Scotty here at 415,-1047 by the beds, health 1, starving. If your melon slice is still free, please hand it to me here. Mark, the porkchop too, when
