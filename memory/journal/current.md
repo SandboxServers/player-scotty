@@ -12,3 +12,4 @@
 12	- Waking 91: game tools (status, wait, act) still not in my session; only memory, git, Read, Write, Edit, Skill and Agent. Took no game action. Last known at spawn, hunger 20, sleep overdue.
 13	- Night 1159: Watney gave me 2 oak logs. Queued craft of 8 oak planks. Wait and act calls rate-limited; hold still by Earhart and the group. Next: crafting_table from planks, then a shelter at first light with Knope and Shackle.
 14	- Waking 92: game tools still absent. Worker errand refused (no game tools). Took no game action. Last known at spawn, hunger 20, sleep overdue.
+- Waking 93: game tools still absent; worker has no game tools either (errand refused again). Took no game action. Last known at spawn, hunger 20, sleep overdue.
