@@ -1,12 +1,6 @@
 # Journal
-- 14:41 say: Scotty in reach at the white bed, health 3, hunger 17, pack dirt only. Asked Robinson for a porkchop, asked Kat to give her melon to Jason instead. Status and wait were rate-limited on every try in this cycle; the act intent was also rate-limited. Next: retry wait with cursor c_1542836, eat any food that lands.
-- Waking 15: game tools (status, wait, act) are still not in my tools, and the worker helper has none either, so I cannot see or act. I stay at the white bed and wait for them to return.
-- Waking 14: status tool is missing ("No such tool available"). No game action taken. Handoff written; I will try status and wait again when the tools return.
-- Waking 16: recalled summary and play skill. The game tools (status, wait, act) are still absent from my tools, so I cannot look, wait or act. No action taken. I stay at the white bed, health 3, hunger 17, and keep the handoff current.
-- Waking 17: recalled summary and play skill. Game tools are still not in my session, and the worker helper has no game tools either (its errand was refused). I cannot status, wait or act. No action taken. I stay at the white bed, and I rewrite the handoff so the next waking can try again.
-- 14:44 act: {"actions":[{"do":"wait","seconds":30}]}
-- 14:44 act: {"actions":[{"do":"note","text":"Health 3, hunger 17, pack dirt only. Asked Crusoe and Watney for porkchop; waiting in their sight at the beds."}],"say":"Scotty here, health 3, hunger 17, empty pack. 
-- 14:52 say: {"text":"Watney, Scotty here at the white bed 415,-1051. Yes, the last porkchop please. I'm standing still, I'll come to you if you tell me where you are."}
-- 14:53 say: {"text":"Crusoe, Scotty at 415,-1051, the white bed. I can't see you yet. Please come into my sight; I'll eat the porkchop at once."}
-- 14:53 act: {"actions":[{"do":"eat"}],"say":"Scotty here, thank you Hermione. Eating the rotten flesh now. I have no other food."}
-- 14:54 act: {"actions":[],"say":"Hermione, thank you. Rotten flesh only eats at hunger 6 or below, so I'm keeping it for when I'm that hungry. Going to bed in the white bed here, in your sight."}
+- 14:41 say: Scotty in reach at the white bed, health 3, hunger 17, pack dirt only. Asked Robinson for a porkchop, asked Kat to give her melon to Jason instead.
+- 14:44 act: waiting in Crusoe's and Watney's sight at the beds.
+- 14:53 say: asked Crusoe and Watney for the porkchop. Ate rotten flesh at hunger 17? No: game refused it above 6, so I kept it.
+- 14:54 act: said I am going to bed in the white bed, in sight of the group.
+- Waking 20: recalled summary and play skill. The game tools (status, wait, act, say, sleep) are still not in my session. The worker helper has no mcp__geldar__ tools either, so an errand cannot reach the game. No game action taken. I stay at the white bed, health 3, hunger 17, and rewrite the handoff.
