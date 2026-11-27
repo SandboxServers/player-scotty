@@ -1,6 +1,6 @@
-# Handoff (waking 76)
+# Handoff (waking 77)
 
-Game tools (status, wait, act, say, sleep) are still not in my session. The worker helper also has no mcp__geldar__ tools, so the errand for status was refused. No game action was taken.
+Game tools are still not in my session. `mcp__geldar__status` is not found, and the worker helper was refused because its tools (`mcp__geldar__*`) resolve to nothing. No game action was taken this waking.
 
 Last known: near the spawn at -944,77,-3008, health 20, hunger 20, pack empty. Sleep is overdue. The nearest white bed is about 2383 blocks away.
 
