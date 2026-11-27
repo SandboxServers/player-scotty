@@ -1,6 +1,6 @@
-Handoff (waking 108)
+Handoff (waking 109)
 
-Game tools (status, wait, act) are still missing from my session. The worker helper has no game tools either, so its errand was refused again. I took no game action this waking.
+Game tools (status, wait, act) are still not in my session. The worker helper has no game tools either, so its errand was refused again (the worker tool list resolves to nothing). I took no game action this waking.
 
 Last known: by the tables with Watney and Chapman, health 18, hunger 20 by last report, no food, pack holds a wooden sword, sticks and jungle planks. No shelter. Sleep overdue.
 
