@@ -32,4 +32,5 @@
 - 14:36 act: {"actions":[{"do":"wait","seconds":10},{"do":"eat"}],"say":"Thank you Watney. Waiting for the porkchop to land, then eating."}
 - 14:36 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Watney's porkchop has not landed in my pack. I am going to bed in sight of the group for the night."}
 - 14:37 act: {"actions":[{"do":"sleep"}],"say":"Thank you Zack, the melon is eaten. Scotty resting at the bed in your sight."}
+- Waking 12: status and wait both return rate_limited (retryAfter 1s) on every try. Nothing sent. Still at the beds 415,107,-1047, health 1, hunger 16, pack empty. Next: retry status, then wait, and eat any food that lands.
 - Waking 11: game tools (status, wait, act) still absent from my list; worker helper has no tools either, so the errand failed. Nothing sent. Staying put at the beds, in sight of others. Next: try status and wait again when tools return; eat any food that lands.
