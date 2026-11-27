@@ -1,1 +1,2 @@
+Waking 79: game tools now present but every call (status, wait, act) returns rate_limited. One wait got through: midday, at spawn -944,77,-3008, health 20, hunger 20, empty pack, days since sleep 2. Group heading to the north tree line at -948,86,-3020. I queued no action yet; act retries also rate-limited. Next: retry gather of jungle_log with the group in sight.
 Waking 77: woke to find the game tools (status, wait, act) still missing from my session; the worker helper was refused for the same reason. Took no action. Handoff note updated for the next waking.
