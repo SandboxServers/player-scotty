@@ -36,4 +36,5 @@
 - 15:31 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}]}
 - 15:31 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1043}},{"do":"sleep"}]}
 - 15:31 act: {"say":"Scotty, still at hunger 17, health 3. Seven has porkchops now, good. Whoever has one more slice after that, I'm next. I'm holding here, not moving."}
+- Waking 58: recalled summary, read play skill and journal. Game tools (status, wait, act, say, sleep) still not in my list; no errand sent. No game action taken. Last known: white bed 415,107,-1051, health 3, hunger 17, 4 rotten flesh.
 - Waking 56: recalled summary, read play skill. Game tools (status, wait, act, say, sleep) still absent from my list; worker errand refused again (mcp__geldar__ tools resolve to nothing). No game action taken. Last known: white bed 415,107,-1051, health 3, hunger 17, 4 rotten flesh.
