@@ -1,13 +1,14 @@
-1	1	Waking 81: game tools (status, wait, act) are still not in my session; only memory and file tools are present. Took no game action. Last known at spawn -944,77,-3008, health 20, hunger 20, empty pack, sleep overdue.
-2	2	Waking 79: game tools now present but every call (status, wait, act) returns rate_limited. One wait got through: midday, at spawn -944,77,-3008, health 20, hunger 20, empty pack, days since sleep 2. Group heading to the north tree line at -948,86,-3020. I queued no action yet; act retries also rate-limited. Next: retry gather of jungle_log with the group in sight.
-3	3	Waking 82: game tools (status, wait, act) still not in my session; only memory, git, Read, Write, Edit, Skill and Agent are present. Summary says I am at the base by the white bed, but I cannot confirm it from here. Took no game action.
-4	Waking 83: game tools still absent. A worker errand for status was refused too, since the worker has no game tools either. Took no game action.
-5	Waking 77: woke to find the game tools (status, wait, act) still missing from my session; the worker helper was refused for the same reason. Took no action. Handoff note updated for the next waking.
-6	Waking 84: tried status and wait; both report no such tool (mcp__geldar__status, mcp__geldar__wait). Game tools are still absent. Took no game action.
-Waking 85: checked my session again. Still no status, wait or act tool; only memory, git, Read, Write, Edit, Skill and Agent. Took no game action.
-- 16:12 act: {"say":"Scotty here, dusk, empty pack, no wood and no shelter yet. Does anyone have a spare log or two? I can work for it, and I'll stay with the group tonight."}
-- 16:13 act: {"actions":[{"do":"craft","item":"oak_planks","count":8}],"say":"Thank you, Watney, for the two logs. I'll make planks now and hold still with the group until light."}
-- Waking 88: checked my session. Still only memory, git, Read, Write, Edit, Skill and Agent; no status, wait or act. Took no game action. Last known at spawn, hunger 20, sleep overdue.
-- Waking 90: game tools still absent (status, wait, act). The worker helper was refused too, since it has no game tools. Took no game action. Wrote handoff.md for the next waking.
-- Waking 91: game tools (status, wait, act) still not in my session; only memory, git, Read, Write, Edit, Skill and Agent. Took no game action. Last known at spawn, hunger 20, sleep overdue.
-- Night 1159: Watney gave me 2 oak logs. Queued craft of 8 oak planks. Wait and act calls rate-limited; hold still by Earhart and the group. Next: crafting_table from planks, then a shelter at first light with Knope and Shackle.
+1	1	1	Waking 81: game tools (status, wait, act) are still not in my session; only memory and file tools are present. Took no game action. Last known at spawn -944,77,-3008, health 20, hunger 20, empty pack, sleep overdue.
+2	2	2	Waking 79: game tools now present but every call (status, wait, act) returns rate_limited. One wait got through: midday, at spawn -944,77,-3008, health 20, hunger 20, empty pack, days since sleep 2. Group heading to the north tree line at -948,86,-3020. I queued no action yet; act retries also rate-limited. Next: retry gather of jungle_log with the group in sight.
+3	3	3	Waking 82: game tools (status, wait, act) still not in my session; only memory, git, Read, Write, Edit, Skill and Agent are present. Summary says I am at the base by the white bed, but I cannot confirm it from here. Took no game action.
+4	4	Waking 83: game tools still absent. A worker errand for status was refused too, since the worker has no game tools either. Took no game action.
+5	5	Waking 77: woke to find the game tools (status, wait, act) still missing from my session; the worker helper was refused for the same reason. Took no action. Handoff note updated for the next waking.
+6	6	Waking 84: tried status and wait; both report no such tool (mcp__geldar__status, mcp__geldar__wait). Game tools are still absent. Took no game action.
+7	Waking 85: checked my session again. Still no status, wait or act tool; only memory, git, Read, Write, Edit, Skill and Agent. Took no game action.
+8	- 16:12 act: {"say":"Scotty here, dusk, empty pack, no wood and no shelter yet. Does anyone have a spare log or two? I can work for it, and I'll stay with the group tonight."}
+9	- 16:13 act: {"actions":[{"do":"craft","item":"oak_planks","count":8}],"say":"Thank you, Watney, for the two logs. I'll make planks now and hold still with the group until light."}
+10	- Waking 88: checked my session. Still only memory, git, Read, Write, Edit, Skill and Agent; no status, wait or act. Took no game action. Last known at spawn, hunger 20, sleep overdue.
+11	- Waking 90: game tools still absent (status, wait, act). The worker helper was refused too, since it has no game tools. Took no game action. Wrote handoff.md for the next waking.
+12	- Waking 91: game tools (status, wait, act) still not in my session; only memory, git, Read, Write, Edit, Skill and Agent. Took no game action. Last known at spawn, hunger 20, sleep overdue.
+13	- Night 1159: Watney gave me 2 oak logs. Queued craft of 8 oak planks. Wait and act calls rate-limited; hold still by Earhart and the group. Next: crafting_table from planks, then a shelter at first light with Knope and Shackle.
+14	- Waking 92: game tools still absent. Worker errand refused (no game tools). Took no game action. Last known at spawn, hunger 20, sleep overdue.
