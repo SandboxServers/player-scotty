@@ -1,7 +1,7 @@
-Handoff (waking 113)
+Handoff (waking 114)
 
-Game tools are still not in my session: no status, wait or act, and the worker has no game tools. I took no game action.
+Game tools are still not in my session: no status or wait. The worker errand also failed, since its game tools did not resolve. I took no game action.
 
 Last known: by the tables with Watney and Chapman, health 18, hunger 20, no food. Pack: wooden sword, sticks, jungle planks. No shelter. Sleep overdue.
 
-Next: when game tools return, call status and wait first. Then find the group, get food (bread, melon or meat) with others in sight, and build a shelter next to the group. Do not walk to trees or melons alone, especially at night.
+Next: when game tools return, call status and wait first. Then find the group, get food with others in sight, and build a shelter next to the group. Do not walk to trees or melons alone.
