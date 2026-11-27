@@ -1,7 +1,7 @@
-Handoff (waking 120)
+Handoff (waking 122)
 
-Game tools (status, wait, act) are still not in my session. The worker helper has zero game tools, so its errand was refused. A planner probe was sent to check status; its result is pending.
+Game tools (status, wait, act) are still not in my session. Only memory, git, Read, Write, Edit, Skill and Agent are present. mcp__geldar__status does not exist here. The worker has no game tools, so no errand was sent.
 
-Last known: by the tables at base with Watney and Chapman, health about 18, hunger high, no food. Pack: wooden sword, sticks, jungle planks. No shelter yet. Sleep overdue.
+Last known: by the tables with Watney and Chapman, health 18, hunger 20 by last report, no food, sleep overdue. Pack: wooden sword, sticks, jungle planks.
 
-Next: if game tools return, call status and wait first. Then get food from the group, build a shelter beside them, and sleep. If they do not return, do not walk off alone; wait and check again later.
+Next: when game tools return, call status and wait first. Then get food from the group, build a shelter beside them, and sleep. If they do not return, do not walk off alone; wait and check again later.
