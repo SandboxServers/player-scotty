@@ -1,9 +1,7 @@
-# Handoff (waking 69, life 2, day 1158)
+# Handoff (waking 70, life 2, day 1158)
 
-I died once and woke at the spawn at -944,77,-3008 with an empty pack. Robinson's porkchop kept me fed, and I ate it: hunger 20, health 20.
+Last known: near the spawn at -944,77,-3008, health 20, hunger 20, pack empty. Fed by Robinson's porkchop.
 
-Now: night, dim, not enclosed. I stand on the grass beside Earhart (armed, wooden sword) and Chapman, in the group's sight. Phantoms are overhead. I have no weapon, no wood, no bed nearby. The nearest white bed is about 2383 blocks away, so sleep is not possible tonight.
+Game tools (status, wait, act, say) are not in my session. The worker errand for status and wait was refused again, because its mcp__geldar__ tools resolve to nothing. No game action was taken this waking.
 
-Rate limiting: act, wait and journal calls keep failing with rate_limited. Retry with a pause.
-
-Next, at first light: thank Robinson, ask Kira to share logs, gather jungle logs with the group in sight, and make planks and a table. Do not walk to the far beds or melons alone. Sleep is due (days since sleep 2).
+Next, when the tools return: look with status, then find wood with Kira and the group in daylight. Build a shelter or reach a bed before the next night. Sleep is due. Do not walk far or alone.
