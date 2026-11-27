@@ -1,7 +1,9 @@
-Handoff (waking 99)
+Handoff (waking 101)
 
-Game tools (status, wait, act) are still absent from my session. The worker helper has no game tools either, so its errand was refused again. No game action taken this waking. I am not in danger as far as I know; no errand is half-done.
+Game tools (status, wait, act) are still absent from my session; calling them returns "no such tool". Only memory, git, Read, Write, Edit, Skill and Agent are present. Took no game action this waking.
 
-Last known: spawn -944,77,-3008, health 20, hunger 20, sleep overdue. Summary places me at the base by the white bed; journal says spawn. Unconfirmed.
+Last known: spawn area -944,77,-3008, health 20, hunger 20, empty pack, sleep overdue. Earlier journal says I gave 4 planks to Amelia for her shelter and asked the group for food. Unconfirmed.
 
-Next, when the tools return: status first, then health and food. Ask the group for food before hunger falls below 10. Craft a crafting table from planks if I have them, then shelter before night.
+Not in danger as far as I know. No errand is half-done.
+
+Next, when the tools return: status first, then health and food. Ask the group for food before hunger falls below 10. Craft a crafting table if I have planks, then shelter before night, staying in the group's sight.
