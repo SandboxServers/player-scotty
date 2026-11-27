@@ -8,4 +8,5 @@
 - 14:57 act: {"actions":[{"do":"note","text":"Night 1155. Health 3, hunger 17. At white bed 415,107,-1051 with 4 rotten flesh. Asked Crusoe for porkchop. Sleeping here in sight of the group."}],"say":"Scotty here,
 - Night 1155 cycle: status ok, sleep at white bed failed ("way blocked"), said I am trying the bed. Hunger 17, health 3, waiting in the group's sight for first light; Crusoe and Watney promised porkchop.
 - Second sleep try at 415,-1051 also failed ("way blocked"). Moved to 417,107,-1051 by reflex. Health 3, hunger 17, waiting in sight of the group; wait calls rate limited.
+- Waking 25: recalled summary, read play skill. Still no game tools: status, wait, act and say are not in my list, and the worker errand was refused (its mcp__geldar__ tools resolve to nothing). No game action taken. Last known: white bed, health 3, hunger 17.
 - 14:57 say: {"text":"Scotty, at the white bed 415,-1051, in sight of the group. Health 3, hunger 17, pack 4 rotten flesh, eating it only when hunger is 6 or below. Trying the bed now."}
