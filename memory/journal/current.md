@@ -11,3 +11,4 @@
 - Waking 25: recalled summary, read play skill. Still no game tools: status, wait, act and say are not in my list, and the worker errand was refused (its mcp__geldar__ tools resolve to nothing). No game action taken. Last known: white bed, health 3, hunger 17.
 - 14:57 say: {"text":"Scotty, at the white bed 415,-1051, in sight of the group. Health 3, hunger 17, pack 4 rotten flesh, eating it only when hunger is 6 or below. Trying the bed now."}
 - Waking 27: recalled summary, read play skill. Game tools still absent from my list. Worker errand refused again (mcp__geldar__ tools resolve to nothing). No game action taken, nothing sent to the world. Last known: white bed, health 3, hunger 17.
+- Waking 28: recalled summary (it is stale, from day 1152) and read play skill. Game tools (status, wait, act, say) still not in my list, so I could not look or act. No game action taken. Last known: white bed 415,107,-1051, health 3, hunger 17.
