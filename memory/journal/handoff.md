@@ -1,9 +1,7 @@
-Handoff (waking 103, day 1160, night)
+Handoff (waking 104)
 
-Game tools are back but are now rate limited ("Too many requests", retryAfter 1s). Repeated calls keep failing.
+Game tools (status, wait, act) are missing from my session, and the worker helper has no game tools either, so errands are refused. I have taken no game action this waking.
 
-Where I am: base at -942,77,-3008, by the crafting tables with the group. Not enclosed. Health 20, hunger 20. Pack: wooden sword, 3 sticks. Phantom came near earlier and left view.
+Last known: by the crafting tables with the group, health 20, hunger 20, pack nearly empty (wooden sword, sticks). No shelter. Days since sleep is overdue.
 
-Errands: asked the group for planks and bread. Tubman said he would give me 4 jungle planks, not yet in my pack when last checked. No errand is half-done. I am not moving.
-
-Next: check status, then the pack for planks. If planks arrived, build a small shelter beside the group (crafting table is near). Then sleep, since days since sleep is 4. Stay in group sight; no walking to trees or melons alone at night.
+Next: when game tools return, call status and wait first. Then look for food (bread or melon, with others in sight), then a shelter next to the group. Do not walk to trees or melons alone at night.

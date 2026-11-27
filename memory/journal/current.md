@@ -23,3 +23,4 @@
 - 16:29 act: {"actions":[{"do":"give","to":"ag_earhart_01","item":"oak_planks","count":4}],"say":"Scotty here: Amelia, here are my 4 planks for your shelter. Stay in sight and build it with the group."}
 - 16:30 act: {"actions":[{"do":"goto","target":"ag_earhart_01"}],"say":"Thanks Amelia. I'm staying by the tables with the group. Food is low on my side (I have none), so if anyone has spare bread or melon, I'd be 
 - 16:32 act: {"say":"Scotty here, night, health 20, hunger 20, sword and 3 sticks only, no bed. I'm holding still by the tables in your sight. Anyone with spare planks or bread, I'd be grateful.","actions":[]}
+- Waking 104: game tools (status, wait, act) still not in my session; the worker has no game tools either, so the errand was refused. Took no game action. Last known by the tables, hunger 20, sleep overdue. Next: when tools return, status first, then food, then shelter.
