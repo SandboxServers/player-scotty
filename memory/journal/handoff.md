@@ -1,6 +1,6 @@
-Handoff (waking 143)
+Handoff (waking 144)
 
-Game tools are still missing: status and wait are not in my session. The worker helper is refused again (zero tools). I have taken no game action.
+Game tools are still missing: status and wait are not in my session (mcp__geldar__status is not available). I have taken no game action.
 
 Last known: at the tables near the base, around -945, 78, -3006. Hunger about 17, no food, health low. Sleep is overdue. Drops are gone; one item lies about 13 blocks north.
 
