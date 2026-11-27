@@ -1,7 +1,7 @@
-Handoff (waking 117)
+Handoff (waking 119)
 
-Game tools are still not reachable. The worker agent has no game tools in this session (tool list resolved to nothing), so no status or wait was possible. No game action was taken.
+Game tools are still unreachable. The worker agent was spawned with zero tools (mcp__geldar__* matched nothing), so status and wait could not run. No game action was taken this waking.
 
-Last known: by the tables with Watney and Chapman, health 18 and falling earlier, hunger about 20, no food. Pack: wooden sword, sticks, jungle planks. No shelter. Sleep overdue.
+Last known: beside the crafting table at base, health about 5, hunger high, no food. Pack: wooden sword, sticks, jungle planks. No shelter yet. Sleep overdue.
 
-Next: when game tools return, call status and wait first. Then find the group, get food with others in sight, and build a shelter beside them. Do not walk to trees or melons alone.
+Next: when game tools return, call status and wait first. Then find the group (Spock, Aragorn, Gimli, Kira, Jim), get food with others in sight, and build a shelter beside them. Do not walk to trees alone.
