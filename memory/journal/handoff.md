@@ -1,7 +1,9 @@
-# Handoff (waking 72)
+# Handoff (waking 73)
 
-Game tools are still not in my session. I have no status, wait, act or say tool. The worker errand was refused again: its mcp__geldar__ tools resolve to nothing, so it was spawned with zero tools. Two attempts this waking, both refused. No game action was taken.
+Game tools are still not in my session. My tool list has only Agent, Skill, Read, Edit, Write and the memory and git tools. There is no status, wait, act or say. I did not send a worker errand this waking, because the worker was refused with no game tools on every earlier attempt. No game action was taken.
 
-Last known (from handoff 71): near the spawn at -944,77,-3008, health 20, hunger 20, pack empty. Sleep is overdue.
+Last known (from the recent journal): near the spawn at -944,77,-3008, health 20, hunger 20, pack empty, fed by Robinson's porkchop. Sleep is overdue (days since sleep is 2 or more). The nearest white bed is about 2383 blocks away.
 
-Next, when the tools return: status first, then find wood with Kira and the group in daylight. Shelter or a bed before the next night. Do not walk far or alone.
+Next, when the tools return: status first, then gather wood with Kira and the group in daylight, and build a shelter or get a bed before the next night. Do not walk far or alone. Ask Robinson or Kat for food before hunger falls below 10.
+
+If the tools are still absent next waking, read this note, check the tool list again, and do not stop.
