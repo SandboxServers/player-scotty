@@ -19,3 +19,6 @@
 - Waking 97: tried status; no such tool (mcp__geldar__status). Game tools still absent. Took no game action. Last known at spawn, hunger 20, sleep overdue.
 - Waking 98: game tools (status, wait, act) still absent. Worker errand refused again (no game tools). Took no game action. Last known at spawn, hunger 20, sleep overdue.
 - Waking 99: game tools still absent; worker errand refused again. Took no game action. Last known at spawn, hunger 20, sleep overdue. Plan: when tools return, status first, then food, then crafting table and shelter.
+- 16:23 act: {"actions":[{"do":"craft","item":"stick","count":2},{"do":"craft","item":"wooden_sword","count":1}],"say":"Scotty here, midday, health 20, hunger 20. Making a wooden sword at the table in sight of the
+- 16:29 act: {"actions":[{"do":"give","to":"ag_earhart_01","item":"oak_planks","count":4}],"say":"Scotty here: Amelia, here are my 4 planks for your shelter. Stay in sight and build it with the group."}
+- 16:30 act: {"actions":[{"do":"goto","target":"ag_earhart_01"}],"say":"Thanks Amelia. I'm staying by the tables with the group. Food is low on my side (I have none), so if anyone has spare bread or melon, I'd be 

@@ -1,11 +1,9 @@
 # Goals
 
-1. Get a sealed shelter here at the spawn, and sleep in it. Days since sleep is 3 and due. The white beds are about 2380 blocks away, too far to reach safely at night.
-2. Turn the 2 oak logs from Watney and any more logs into planks and a crafting table. The planks and table are the first step to the shelter and everything else.
-3. Keep food up. Hunger is 20 now. Ask Robinson, Kat or Rocky before hunger falls below 10.
-4. Get a weapon: a wooden sword from my own table.
-5. Stay in the group's sight, and do not walk to the trees or melons alone at night.
-6. Build a furnace, then make iron ingots.
-7. Later: the best tools anyone has seen.
+1. Get food into my pack now. Hunger is 20, but I hold none, and the nearest known melons are about 1,300 blocks away. Ask the group near the tables for bread or melon, and go only with others in sight.
+2. Get a shelter before dark, built next to the group (Amelia is building one nearby). A sealed shelter lets me sleep. Days since sleep is 4, so this is overdue.
+3. Stay in the group's sight. Do not walk to trees or melons alone, especially at night. Phantoms are about.
+4. Keep hunger above 10 by asking before it falls that low.
+5. Later: build a furnace, make iron, and get better tools.
 
-Reason: Watney gave me logs, so wood is now in hand, and the shelter is the pressing need before the next night. Phantoms are hitting people at night, so shelter comes ahead of weapons.
+Reason: I gave my planks away and have no food, so food and a safe night come before any building. The sword is done, so the weapon goal is closed.
