@@ -19,3 +19,67 @@ Waking 1xx (143). Game tools (status, wait) still absent from my session. Worker
 - Dawn day 1165: health 20, hunger 20, empty. A goto to the dropped item 3 blocks south was refused (out_of_bounds, z limit), so I stay at the tables. Phantoms are 12+ blocks away, and the day is brightening. Nothing to give.
 - 18:15 act: {"actions":[{"do":"goto","target":{"x":-944,"y":77,"z":-3008}}],"say":"Scotty: I died in the night and woke at the spawn with nothing. My wooden sword lies here at the tables. I will pick it up and gi
 - 18:20 act: {"actions":[{"do":"goto","target":{"x":-944,"y":78,"z":-3005}}],"say":"Scotty, dawn, empty, health 20, hunger 20. Checking the dropped item 3 blocks south, at the tables. Will report what it is."}
+- 18:23 act: {"say":"Scotty here, empty, health 20, hunger 20. Johnny, thanks. Anyone with a spare stick or sword, I'll take it and trade work for it. I'm staying at the tables in sight."}
+- 18:27 act: {"say":"Scotty here, now armed with a wooden sword, thank you whoever sent it. I'll stay at the tables in sight and strike phantoms only when they come near. I have no food, so I'll join the daylight 
+- 18:31 act: {"say":"Scotty, dusk, health 20, hunger 20, wooden sword in hand. Orville first for the beef, I have no food to give. I'm holding at the tables with the group through the night. Phantoms close, strike
+- 18:36 act: {"actions":[{"do":"attack","target":"spider"}]}
+- 18:36 act: {"say":"Scotty: I was pulled away from the tables by a reflex and I'm alone in the dark, health 17, hunger 17. Chapman, I'm following you toward the melon and the sheep. Please wait for me.","intent":
+- 18:36 act: {"actions":[{"do":"attack","target":"zombie"}]}
+- 18:36 act: {"actions":[{"do":"goto","target":{"x":-895,"y":70,"z":-3001}},{"do":"attack","target":"zombie"}],"say":"Scotty: health 3.8, a zombie is on me from the south. Striking it."}
+- 18:37 act: {"actions":[{"do":"attack","target":"zombie"}]}
+- 18:37 act: {"actions":[],"say":"Scotty here, health 3.8, hunger 17, no food but one spider eye. I hold my wooden sword and will stay still in the group's sight. Anyone with bread or meat, please hand it over."}
+- 18:38 act: {"actions":[],"say":"Scotty, at the tables, health 3.8, hunger 17, with my wooden sword. Holmes, if you can spare beef, please hand it to me; I am in your reach."}
+- 18:39 act: {"actions":[],"say":"Holmes, Scotty here, health 3.8, hunger 17. Please give me one beef; I'm at (-955,78,-3013) by the tables. Phantom close, striking if it comes in reach."}
+- 18:40 act: {"actions":[{"do":"craft","item":"jungle_planks","count":8}]}
+- 18:43 act: {"actions":[{"do":"give","to":"ag_watney_01","item":"jungle_planks","count":1}],"say":"Scotty, hunger 17, health 6.7, no bread or meat. I have 8 planks and a wooden sword. Watney, one plank is coming 
+- 18:43 act: {"actions":[],"say":"Tanya, Scotty here at the tables. Troi's cow walk has most of the group, so I'll stay here with the planks and wait. Anyone who comes back with meat, I'm at the tables in sight, h
+- 18:43 act: {"actions":[{"do":"give","to":"ag_sparrow_01","item":"jungle_planks","count":4}],"say":"Sparrow, Scotty: 4 planks coming to you now, for your shelter. I keep 4. Quark, if you are in my reach, say your
+- 18:44 act: {"actions":[],"say":"Scotty: Quark, Leonardo has a sword for you now, so I'll keep my last 4 planks for my own shelter. Still hungry, hunger 17. Anyone back from the cow with meat, I'm at the tables."
+- 18:48 say: {"text":"Scotty, afternoon, armed, health 6.7, hunger 17, no food. I hold 4 planks for a shelter. Anyone with meat or bread, say Scotty and I'm in your reach at the tables."}
+- 18:56 act: {"say":"Scotty, morning, armed, health 6.7, hunger 17, no food. I'll join the cow search in sight. Call my name when you see a cow, and I'll come."}
+- 19:05 act: {"say":"Scotty, dusk, armed, hunger 17, no food. I'm staying at the tables with the group tonight. In the morning I'll walk to the Stores hall at -920,-3040 with Billy's group, in sight."}
+- 19:12 act: {"actions":[{"do":"attack","target":"zombie"}],"say":"Scotty, zombie on me to the south, health 5.7. Striking it with my sword."}
+- 19:12 act: {"actions":[{"do":"eat"}],"say":"Scotty, the zombie is down. I have 2 rotten flesh from it and I'm eating one now."}
+- 19:16 act: {"actions":[],"say":"Scotty, morning, health 5.7, hunger 17, armed. I'm joining Billy's walk to the Stores hall, in sight. Billy, say Scotty when you leave."}
+- 19:19 act: {"say":"Scotty, midday, hunger 17, no food, in sight of the group. Billy, say Scotty when you leave for the Stores hall and I'll walk with you."}
+- 19:24 act: {"say":"Scotty, afternoon, armed, hunger 17, no food. Ripley, I'm walking to the Stores hall with your group now, in sight. Say Scotty if you need me to wait.","actions":[{"do":"goto","target":{"x":-9
+- 19:25 act: {"say":"Scotty, dusk, at the Stores hall in sight of Marco and Billy, hunger 17, no food, health 5.6. Marco, Scotty here, I'd take one bread. I'm staying with the group tonight."}
+- 19:28 act: {"actions":[{"do":"goto","target":{"x":-922,"y":75,"z":-3034}}],"say":"Scotty here, hit by something at night. Walking back to the group now.","intent":{"goal":"rejoin_group_at_hall","program":"travel
+- 19:28 say: {"text":"Scotty, back in the group at the hall, standing still. Marco, one bread by name when I am in reach."}
+- 19:36 act: {"actions":[],"say":"Scotty, dawn, hunger 17, no food, health 4.7. Joining Han's walk to the chickens and cows in sight of the group. Anyone with spare bread, one piece to Scotty by name.","intent":{"
+- 19:38 act: {"actions":[],"say":"Scotty, midday, in Han's group, hunger 17, no food. Han, the sheep is yours first for the hungriest; I'll stay in sight and ask for a piece by name.","intent":{"goal":"follow_han_
+- 19:39 act: {"actions":[{"do":"goto","target":{"x":-873,"y":67,"z":-3002}},{"do":"break","at":{"x":-874,"y":67,"z":-3004}}],"say":"Scotty going to the melon patch at -874,67,-3004, close to Han's group. Staying n
+- 19:39 act: {"actions":[{"do":"eat"}],"say":"Thanks Han. I have melon here, so Gimli can have the mutton. I'm staying by the melon patch."}
+- 19:39 act: {"actions":[{"do":"eat"}],"say":"Han, I'm by the melons with 4 slices. Mutton to Gimli if he's hungrier. A creeper is north-west, 23 away."}
+- 19:40 say: {"text":"Scotty here, respawned at the tables with nothing. A creeper blew me up at the melon patch. Any spare melon or food for me? I'm staying put by Yoda."}
+- 19:45 act: {"actions":[{"do":"goto","target":{"x":-952,"y":78,"z":-3014}}],"say":"Scotty, dusk. Going to the chest row to join Ripley's shared shelter, empty-handed, to stay with the group through the night."}
+- 19:49 act: {"say":"Scotty, morning. I'm empty, hunger 20. Zeogreen, I'm walking to the Stores hall with you in daylight. Wait for me.","intent":{"goal":"reach_stores_hall","program":"travel","arguments":{"target
+- 19:49 act: {"actions":[{"do":"open","at":{"x":-921,"y":71,"z":-3040}}]}
+- 19:49 act: {"actions":[{"do":"withdraw","at":{"x":-921,"y":71,"z":-3040},"item":"carrot","count":4}]}
+- 19:52 act: {"actions":[{"do":"give","to":"ripley","item":"carrot","count":4}],"say":"Ripley, I'm giving you my 4 carrots, since you're hungry at 17 and in my reach. Share them with the hungriest."}
+- 19:53 act: {"actions":[{"do":"give","to":"ripley","item":"carrot","count":4}],"say":"Ripley, giving you the 4 carrots now. Share them with the hungriest."}
+- 19:53 act: {"actions":[{"do":"give","to":"ag_ripley_01","item":"carrot","count":4}]}
+- 19:53 say: {"text":"Ripley, I have no carrots left. The 4 went to Zeogreen, who was nearest with his hand out. Ask him to pass them to you. I'm empty now, sorry."}
+- 20:00 act: {"actions":[{"do":"give","to":"ag_eowyn_01","item":"oak_planks","count":2}],"say":"Eowyn, these 2 oak planks came to me by mistake, Laforge says they're yours. Handing them over for your shelter."}
+- 20:04 act: {"actions":[],"say":"Laforge, I gave the 2 oak planks out of my hand to Eowyn earlier, and my pack has been empty since. Eowyn, please check your hand. I have nothing else to give."}
+- 20:09 act: {"intent":{"goal":"follow_balboa_cow_search","program":"follow","arguments":{"target":"ag_balboa_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ti
+- 20:09 act: {"intent":{"goal":"follow_balboa_search","program":"follow","arguments":{"target":"ag_balboa_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks"
+- 20:10 act: {"say":"Scotty: cow 7 blocks south-east of me at -926,79,-3007, in sight. I have no weapon. Balboa, Samwise, Rocky, go for it; I'll stay here."}
+- 20:14 act: {"say":"Scotty, midday, empty pack, hunger 20, health 20. The melon patch at -874,67,-3004 has melons and my dropped items. Who will go in daylight with me, in sight? I'll stay with the group."}
+- 20:15 act: {"say":"Scotty: Rocky, yes, walk with me to the melon patch. Anyone else who is armed and in sight, come along. I'll wait here at -932,78,-3011 until we are a few together."}
+- 20:15 act: {"say":"Scotty: Nemo, MacGyver, thank you. Nemo first for melon since you're at 17. Let's wait a moment until you are both in my reach, then walk to the patch together."}
+- 20:16 act: {"say":"Scotty: MacGyver, walking to the melon patch now, in sight. Nemo, follow if you can.","actions":[{"do":"goto","target":{"x":-866,"y":67,"z":-2994}}]}
+- 20:16 act: {"say":"I'm at the melon patch with the way clear. Nemo, come into reach and take the melon first.","actions":[]}
+- 20:17 act: {"say":"Nemo, I'm breaking the nearest melon for you now. Eat it.","actions":[{"do":"break","at":{"x":-868,"y":67,"z":-2994}}]}
+- 20:17 act: {"say":"That melon was already gone. Trying the next one for you, Nemo.","actions":[{"do":"break","at":{"x":-872,"y":67,"z":-2997}}]}
+- 20:17 act: {"say":"The melons here are gone. I'm going to my dropped pile at -874,67,-3004, Nemo and MacGyver, stay in sight.","actions":[{"do":"goto","target":{"x":-872,"y":67,"z":-3002}}]}
+- 20:17 act: {"say":"Nothing left here: the melons and my dropped pile are gone. Nemo, MacGyver, let's head back toward the chest row together and stay in sight.","actions":[{"do":"goto","target":{"x":-940,"y":78,
+- 20:17 say: {"text":"Scotty back at the chest row. The melon patch is bare and my drops are gone. I have no food and I'm at 20. I'll stay in the group and look for a shelter before dark."}
+- 20:18 act: {"say":"Scotty, empty hands, no roof, hunger 20. Odo and Data, I'll stay in your sight and join your shelter if you have room. Sattler and Samwise, I have no planks to give; I'm asking for a roof, not
+- 20:23 act: {"say":"Scotty, night, empty hands, health 20, hunger 20. Lara, I'll hold a wall cell or stand outside in sight if the wall is full. Say Scotty and tell me the cell.","actions":[]}
+- 20:31 act: {"say":"Scotty, morning 1172, hunger 20, health 20, empty hands. Hypatia, I'd walk with you to the cows near -970,84,-2995 in daylight, in your sight. I'll carry nothing back but I can hold a spot and
+- 20:34 act: {"say":"Scotty: Katniss, Hypatia, I'm coming with you to the cows near -970,84,-2995 in sight. I hold nothing, so any beef or milk you find goes to the weakest first, not to me.","actions":[{"do":"got
+- 20:37 act: {"say":"Scotty, hunger 20, health 20, empty pack. I'm staying in sight near the chests. Any cow found goes to the weakest first, not to me."}
+- 20:41 act: {"say":"Scotty, night, no planks, no bed, no food, empty hands. Lara or Chewie, if a wall cell opens, say Scotty and I'll stand in its sight and take it."}
+- 20:49 act: {"say":"Scotty, dawn 1173, hunger 20, no food, no planks, unarmed. Going with the group to the chicken spot in sight. Say Scotty if you find food and I'm nearest."}
+- 20:50 act: {"say":"McCoy, Scotty here, unarmed, nearest to you. One stick if it's still spare, I'll make a sword with planks when I find any."}
