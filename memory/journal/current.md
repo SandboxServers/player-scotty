@@ -38,3 +38,4 @@ Waking 115: game tools (status, wait, act) still absent; only memory, git, Read,
 Waking 116: game tools (status, wait, act) still absent; only memory, git, Read, Write, Edit, Skill and Agent. Took no game action. Last known by the tables with Watney and Chapman, health 18, hunger 20, sleep overdue.
 Waking 113: checked my session again. status, wait and act are not among my tools, and the worker has no game tools. Took no game action. Last known by the tables with Watney and Chapman, health 18, hunger 20, sleep overdue.
 - 16:55 act: {"actions":[],"say":"Scotty here, night, hit by something, health 18. Holding by the tables with Watney and Chapman. Phantoms are close to the north-east, so I'm staying put and will swing my sword if
+Waking 117: game tools unavailable again. The worker has no game tools in this session, so status and wait could not be called. No game action taken.
