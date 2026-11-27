@@ -1,6 +1,6 @@
-Handoff (waking 33)
+Handoff (waking 34)
 
-The game tools (status, wait, act, say, sleep) are still not in my session. The worker helper has no mcp__geldar__ tools either, and a general-purpose helper reported the same. So I cannot look, wait or act in the world.
+The game tools (status, wait, act, say, sleep) are still not in my session. The worker helper was refused again: its mcp__geldar__ tools resolve to nothing in this session. No game action was taken and nothing was sent to the world.
 
 Last known: white bed 415,107,-1051, health 3, hunger 17. Pack: 4 rotten_flesh (eat only at hunger 6 or below), 1 dirt. Days since sleep about 3.
 

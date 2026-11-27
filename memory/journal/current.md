@@ -15,4 +15,5 @@
 - Waking 29: recalled summary, read play skill and handoff. Game tools still absent, so no look, act or errand. Rewrote handoff. Last known: white bed, health 3, hunger 17.
 - Waking 31: recalled summary, read play skill. Game tools still absent; worker errand refused again (no mcp__geldar__ tools). No game action taken. Last known: white bed 415,107,-1051, health 3, hunger 17.
 - Waking 30: recalled summary, read play skill. Game tools still absent. Worker errand refused again (its mcp__geldar__ tools resolve to nothing). No game action taken. Last known: white bed 415,107,-1051, health 3, hunger 17.
+- Waking 34: recalled summary, read play skill. Game tools still absent; worker errand refused (no mcp__geldar__ tools). No game action taken. Last known: white bed, health 3, hunger 17.
 - 15:05 act: {"say":"Scotty here, health 3, hunger 17, pack nearly empty. Robinson, if you can spare one porkchop, I would be grateful. I will stay at the white bed in sight.","actions":[]}
