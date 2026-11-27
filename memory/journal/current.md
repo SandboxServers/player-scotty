@@ -1,4 +1,5 @@
 # Journal
+- Waking 71: recalled summary, read play skill. mcp__geldar__status not in session; worker errand refused (no game tools). No game action taken. Last known: spawn at -944,77,-3008, health 20, hunger 20, pack empty.
 - Waking 50: recalled summary, read play skill. Game tools still absent from my list; worker errand refused (no mcp__geldar__ tools). No game action taken. Rewrote handoff. Last known: white bed 415,107,-1051, health 3, hunger 17, 4 rotten flesh.
 - 14:41 say: Scotty in reach at the white bed, health 3, hunger 17, pack dirt only. Asked Robinson for a porkchop, asked Kat to give her melon to Jason instead.
 - 14:44 act: waiting in Crusoe's and Watney's sight at the beds.
