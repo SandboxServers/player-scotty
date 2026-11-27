@@ -4,3 +4,4 @@
 4	Waking 83: game tools still absent. A worker errand for status was refused too, since the worker has no game tools either. Took no game action.
 5	Waking 77: woke to find the game tools (status, wait, act) still missing from my session; the worker helper was refused for the same reason. Took no action. Handoff note updated for the next waking.
 6	Waking 84: tried status and wait; both report no such tool (mcp__geldar__status, mcp__geldar__wait). Game tools are still absent. Took no game action.
+Waking 85: checked my session again. Still no status, wait or act tool; only memory, git, Read, Write, Edit, Skill and Agent. Took no game action.
