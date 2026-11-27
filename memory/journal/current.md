@@ -19,4 +19,5 @@
 - 14:23 act: {"say":"Rocky, no melon reached my pack yet. Scotty is at 415,-1047, in your sight, empty. Please hand it over here."}
 - 14:25 act: {"say":"Mark, Scotty here, starving, health 1, empty pack. I am at 415,-1047 by the row beds, in your sight. Any porkchop would keep me alive."}
 - 14:27 act: {"actions":[{"do":"wait","seconds":5},{"do":"eat"}],"say":"Thank you, Mark. Eating now."}
+- 14:30 status: game tools (status, wait, act) not available this waking; worker helper also has no tools. Nothing sent. Waiting at beds 415,-1047; food from Rocky and Mark unconfirmed.
 - 14:27 act: {"actions":[{"do":"wait","seconds":10}],"say":"Kat, Scotty here at 415,-1047 by the beds, health 1, starving. If your melon slice is still free, please hand it to me here. Mark, the porkchop too, when
