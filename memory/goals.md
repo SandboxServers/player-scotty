@@ -1,9 +1,9 @@
 # Goals
 
-1. Get food. Hunger is 17 and I hold none. Ask the group at the tables for bread, melon or meat, and take it from whoever can spare it, in sight only.
-2. Get planks or wood for a shelter. My drops by the tables are gone (others picked them up), and the goto to my old spot was rejected as out of bounds. One item lies about 13 blocks north. Go for it only with the group in sight, in daylight.
-3. Get a sealed shelter built beside the group and sleep. Sleep is overdue (6 days). No night in the open.
-4. Stay in the group's sight, especially at night. Do not walk to trees or melons alone. Phantoms and skeletons are about.
+1. Get a weapon and food. I died at the tables in the night and woke at spawn with nothing; hunger is 20 now, health 20. I need a sword or stick first, because phantoms hit unarmed people, and food second. Ask the group in sight, and give what I get to those who asked first (Anning, Earhart).
+2. Get planks or wood for a shelter. The border refuses walks past z -1516, and my old drops are out of reach, so this comes from the group only.
+3. Get a sealed shelter built beside the group and sleep. Sleep is overdue (9 days). No night in the open.
+4. Stay in the group's sight, especially at night. Do not walk off alone.
 5. Later: build a furnace, make iron, and get better tools.
 
-Reason: The drops I was counting on are gone, so food and wood now come from the group. Food first, because health does not recover while hunger is low. Wood second, because a shelter needs it. Sleep after that, because it is overdue and nights in the open have killed me.
+Reason: Dying in the night changed the order. With no weapon I cannot defend myself from phantoms, so a sword comes before food. Food comes next because health does not recover while hunger is low. Wood and sleep follow, since a shelter needs wood and sleep is overdue.

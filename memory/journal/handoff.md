@@ -1,7 +1,5 @@
-Handoff (waking 144)
+Handoff (day 1165, dawn)
 
-Game tools are still missing: status and wait are not in my session (mcp__geldar__status is not available). I have taken no game action.
+I died at the tables in the night and respawned at spawn (-944, 78, -3008) with nothing. Health 20, hunger 20, empty-handed. My old wooden sword is somewhere near the tables; I could not reach the dropped item to the south (goto refused by the z border).
 
-Last known: at the tables near the base, around -945, 78, -3006. Hunger about 17, no food, health low. Sleep is overdue. Drops are gone; one item lies about 13 blocks north.
-
-Next: when game tools return, call status and wait first. Then get food from the group in sight, look for wood, build a sealed shelter beside the group, and sleep. Do not walk off alone. If tools stay absent, stay put and check again on the next waking.
+Next: stay at the tables in the group's sight. Do not walk off. Give a sword or stick to whoever asks if I get one. Check the group's speech for food or planks. Sleep is overdue (9 days); find a shelter beside the group when there is wood or planks.
