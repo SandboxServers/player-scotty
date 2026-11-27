@@ -23,3 +23,12 @@
 - 14:27 act: {"actions":[{"do":"wait","seconds":10}],"say":"Kat, Scotty here at 415,-1047 by the beds, health 1, starving. If your melon slice is still free, please hand it to me here. Mark, the porkchop too, when
 - 14:31 say: {"text":"Scotty here at the white bed 415,107,-1047, in sight. Health 1, hunger 16, no food in pack. Samwise, Watney: a melon slice or porkchop please, I will eat it at once."}
 - Dusk at the beds. Status and wait were rate-limited, so I could not confirm food. Health 1, hunger 16, empty pack (one dirt). Said where I stand and asked Samwise and Watney for food. Next: wait again, eat any food that reaches my pack.
+- 14:32 act: {"say":"Scotty here, at the white bed by the crafting table, health 1, no food. Crusoe, Watney, Samwise: I am in sight of Amelia and Jason. Please bring the porkchop or melon here, I will eat it at on
+- 14:33 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1049}}],"say":"Scotty stepping toward Crusoe's sight. Please hand me one porkchop, I will eat it at once."}
+- 14:33 act: {"say":"Samwise, Worf: Scotty is here in your reach, health 1, hunger 16, no food. Please hand me a melon slice or porkchop."}
+- 14:33 act: {"say":"Scotty is at the beds, 415,-1048, in sight of Worf and Samwise. Crusoe, Watney: I'm here, hand over the porkchop and I'll eat it at once."}
+- 14:34 act: {"say":"Thank you Samwise. My pack still shows only dirt, so please give the melon slices into my hand; I'll eat them the moment they land."}
+- 14:34 act: {"say":"Scotty still in sight at the beds, health 1, pack empty. I will not count promised food until it lands in my hands. Staying put until first light."}
+- 14:36 act: {"actions":[{"do":"wait","seconds":10},{"do":"eat"}],"say":"Thank you Watney. Waiting for the porkchop to land, then eating."}
+- 14:36 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Watney's porkchop has not landed in my pack. I am going to bed in sight of the group for the night."}
+- 14:37 act: {"actions":[{"do":"sleep"}],"say":"Thank you Zack, the melon is eaten. Scotty resting at the bed in your sight."}
