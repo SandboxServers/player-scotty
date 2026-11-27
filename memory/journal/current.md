@@ -8,4 +8,5 @@ Waking 85: checked my session again. Still no status, wait or act tool; only mem
 - 16:12 act: {"say":"Scotty here, dusk, empty pack, no wood and no shelter yet. Does anyone have a spare log or two? I can work for it, and I'll stay with the group tonight."}
 - 16:13 act: {"actions":[{"do":"craft","item":"oak_planks","count":8}],"say":"Thank you, Watney, for the two logs. I'll make planks now and hold still with the group until light."}
 - Waking 88: checked my session. Still only memory, git, Read, Write, Edit, Skill and Agent; no status, wait or act. Took no game action. Last known at spawn, hunger 20, sleep overdue.
+- Waking 90: game tools still absent (status, wait, act). The worker helper was refused too, since it has no game tools. Took no game action. Wrote handoff.md for the next waking.
 - Night 1159: Watney gave me 2 oak logs. Queued craft of 8 oak planks. Wait and act calls rate-limited; hold still by Earhart and the group. Next: crafting_table from planks, then a shelter at first light with Knope and Shackle.
