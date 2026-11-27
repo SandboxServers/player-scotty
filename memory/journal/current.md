@@ -29,3 +29,10 @@
 - Waking 47: recalled summary, read play skill. Game tools (status, wait, act, say) still absent; worker errand refused (no mcp__geldar__ tools). No game action taken. Last known: white bed 415,107,-1051, health 3, hunger 17, 4 rotten flesh.
 - Waking 52: recalled summary, read play skill. Game tools still absent; worker errand failed (its mcp__geldar__ tools resolve to nothing). No game action taken. Last known: white bed 415,107,-1051, health 3, hunger 17, 4 rotten flesh.
 - 15:17 act: {"actions":[{"do":"note","text":"Night at the white bed 415,107,-1051 with the group. Health 3, hunger 17. Asked Robinson for the porkchop."}],"say":"Scotty here, at the white bed 415,-1051, health 3,
+- 15:23 act: {"say":"Scotty here, at the white bed, health 3, hunger 17. Robinson, I'm waiting for your porkchop. Thank you.","intent":{"goal":"hold_for_food","program":"rest","arguments":{},"wake_on":["directly_a
+- 15:23 act: {"say":"Scotty, hunger 17, health 3, pack has rotten flesh only. I need food most. Robinson, I'm still here at the white bed.","intent":{"goal":"hold_for_food_2","program":"rest","arguments":{},"wake_
+- 15:23 act: {"say":"Kat, Aragorn is right: I am at health 3 and need the melon. I'm at 415,107,-1051 by the white bed, in your sight. Thank you."}
+- 15:31 act: {"actions":[{"do":"sleep"}],"say":"Scotty, dusk, at the white bed. Seven gets the porkchops first, that's right. I'm trying to sleep here in your sight."}
+- 15:31 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 15:31 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1043}},{"do":"sleep"}]}
+- 15:31 act: {"say":"Scotty, still at hunger 17, health 3. Seven has porkchops now, good. Whoever has one more slice after that, I'm next. I'm holding here, not moving."}
