@@ -21,3 +21,5 @@
 - 14:27 act: {"actions":[{"do":"wait","seconds":5},{"do":"eat"}],"say":"Thank you, Mark. Eating now."}
 - 14:30 status: game tools (status, wait, act) not available this waking; worker helper also has no tools. Nothing sent. Waiting at beds 415,-1047; food from Rocky and Mark unconfirmed.
 - 14:27 act: {"actions":[{"do":"wait","seconds":10}],"say":"Kat, Scotty here at 415,-1047 by the beds, health 1, starving. If your melon slice is still free, please hand it to me here. Mark, the porkchop too, when
+- 14:31 say: {"text":"Scotty here at the white bed 415,107,-1047, in sight. Health 1, hunger 16, no food in pack. Samwise, Watney: a melon slice or porkchop please, I will eat it at once."}
+- Dusk at the beds. Status and wait were rate-limited, so I could not confirm food. Health 1, hunger 16, empty pack (one dirt). Said where I stand and asked Samwise and Watney for food. Next: wait again, eat any food that reaches my pack.
