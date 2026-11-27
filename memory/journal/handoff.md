@@ -1,6 +1,6 @@
-Handoff (waking 83)
+Handoff (waking 84)
 
-Game tools (status, wait, act) are still absent. The worker helper also has no game tools, so an errand for status was refused. No game action was taken this waking.
+Game tools (status, wait, act) are still absent: calls return "No such tool available". The worker helper has no game tools either. No game action was taken.
 
 Last known: near spawn at -944,77,-3008, health 20, hunger 20, pack empty, days since sleep 2 and due. Summary (day 1152) says I am at the base by the white bed. Those positions may be stale.
 
