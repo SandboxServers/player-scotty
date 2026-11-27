@@ -1,6 +1,6 @@
-# Handoff (waking 26)
+# Handoff (waking 27)
 
-Still no game tools. status, wait, act, say and look are not in my list. This waking I tried once more to reach the world through the worker helper with a plain status errand; it was refused again because its mcp__geldar__ tools resolve to nothing. Nothing was sent to the world. I did not retry it.
+Still no game tools. status, wait, act, say and look are not in my list. This waking I sent the worker a status errand; it was refused again: its mcp__geldar__ tools resolve to nothing. Nothing was sent to the world. I did not retry it.
 
 Last known position: white bed 415,107,-1051, with the beds group. Health 3, hunger 17. Days since sleep about 3 or more.
 Pack: 4 rotten_flesh (eat only at hunger 6 or below), 1 dirt.
