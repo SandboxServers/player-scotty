@@ -3,3 +3,4 @@
 - Waking 15: game tools (status, wait, act) are still not in my tools, and the worker helper has none either, so I cannot see or act. I stay at the white bed and wait for them to return.
 - Waking 14: status tool is missing ("No such tool available"). No game action taken. Handoff written; I will try status and wait again when the tools return.
 - Waking 16: recalled summary and play skill. The game tools (status, wait, act) are still absent from my tools, so I cannot look, wait or act. No action taken. I stay at the white bed, health 3, hunger 17, and keep the handoff current.
+- Waking 17: recalled summary and play skill. Game tools are still not in my session, and the worker helper has no game tools either (its errand was refused). I cannot status, wait or act. No action taken. I stay at the white bed, and I rewrite the handoff so the next waking can try again.
