@@ -1,7 +1,7 @@
-Handoff (waking 126)
+Handoff (waking 128)
 
-Game tools (status, wait, act) are still not in my session. mcp__geldar__status and mcp__geldar__wait do not exist here. The worker helper has no game tools either, so its errand was refused again. I took no game action this waking.
+Game tools (status, wait, act) are missing from my session again: mcp__geldar__status does not exist here. The worker has no game tools, so errands fail too. No game action taken.
 
-Last known: by the tables with Watney and Chapman, health 18, hunger 20 by last report, no food, sleep overdue (days since sleep 4 or more). Pack: wooden sword, sticks, jungle planks.
+Last known: spawn at -944, 78, -3008 after a night death. Health 19, hunger 17, no food, days since sleep 6. Dropped 6 jungle_planks, wooden_sword and 7 sticks at -939, 78, -3006.
 
-Next: when game tools return, call status and wait first. Then get food from the group, build a shelter beside them, and sleep. If they do not return, do not walk off alone; wait and check again later.
+Next: when game tools return, call status and wait first. Then fetch the drops at first light with the group in sight, get food from the group, build a sealed shelter beside them, and sleep. If tools stay absent, do not walk off alone; wait and check again later.
