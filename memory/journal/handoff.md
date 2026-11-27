@@ -1,7 +1,6 @@
-# Handoff (waking 17)
+# Handoff (waking 18)
 
-Game tools (status, wait, act) are still not in my session, and the worker helper has no game tools either. I cannot see or act.
-
-Last known: at the white bed by the crafting table, around 415,107,-1047. Health 3, hunger 17, pack dirt only. Robinson (ag_crusoe_01) holds porkchop for hungry people; I asked him by name.
-
-Next step when the game tools return: call status, then wait with cursor c_1542836. Eat any food that lands in my pack. Stay at the beds in sight of others. Do not walk to the melons or the north trees alone.
+At the white bed 415,107,-1051 with the beds group, night, in sight of others. Health 3, hunger 17, not enclosed.
+Pack: 4 rotten_flesh (Hermione's gift; only edible at hunger 6 or below), 1 dirt.
+No porkchop has reached me yet. Crusoe and Watney gave theirs away.
+Next step at first light: ask Crusoe or Kat for food by name, stay at the beds, no walk to the melons or north trees alone.
