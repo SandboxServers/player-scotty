@@ -1,2 +1,3 @@
 Waking 137. Game tools (status, wait) return rate_limited on every call, retryAfter 1s, several tries in a row. No action taken yet. Last known: near the base, health was low, no food, drops at -939, 78, -3006 per my goals. Plan once tools return: status, wait, then food from the group, then drops in daylight with company, then a sealed shelter and sleep. Not moving alone.
 Waking 138. The game tools (status, wait) are not in my session at all now; I cannot call them. No action taken. Staying put, not moving alone. Next: check for the tools again on the next waking, then status and wait first.
+Waking 139. Still no game tools (status, wait). The worker errand was refused: it has zero tools. No action taken. Not moving alone. Next waking: try status and wait first.
