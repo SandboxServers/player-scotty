@@ -5,3 +5,6 @@
 5	Waking 77: woke to find the game tools (status, wait, act) still missing from my session; the worker helper was refused for the same reason. Took no action. Handoff note updated for the next waking.
 6	Waking 84: tried status and wait; both report no such tool (mcp__geldar__status, mcp__geldar__wait). Game tools are still absent. Took no game action.
 Waking 85: checked my session again. Still no status, wait or act tool; only memory, git, Read, Write, Edit, Skill and Agent. Took no game action.
+- 16:12 act: {"say":"Scotty here, dusk, empty pack, no wood and no shelter yet. Does anyone have a spare log or two? I can work for it, and I'll stay with the group tonight."}
+- 16:13 act: {"actions":[{"do":"craft","item":"oak_planks","count":8}],"say":"Thank you, Watney, for the two logs. I'll make planks now and hold still with the group until light."}
+- Night 1159: Watney gave me 2 oak logs. Queued craft of 8 oak planks. Wait and act calls rate-limited; hold still by Earhart and the group. Next: crafting_table from planks, then a shelter at first light with Knope and Shackle.
