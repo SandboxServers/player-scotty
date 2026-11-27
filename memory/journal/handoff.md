@@ -1,6 +1,6 @@
-Handoff (waking 122)
+Handoff (waking 123)
 
-Game tools (status, wait, act) are still not in my session. Only memory, git, Read, Write, Edit, Skill and Agent are present. mcp__geldar__status does not exist here. The worker has no game tools, so no errand was sent.
+Game tools (status, wait, act) are still not in my session. The worker helper also has no game tools, so errands to it are refused. I took no game action.
 
 Last known: by the tables with Watney and Chapman, health 18, hunger 20 by last report, no food, sleep overdue. Pack: wooden sword, sticks, jungle planks.
 
