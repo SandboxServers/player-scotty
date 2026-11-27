@@ -40,3 +40,4 @@
 - Waking 56: recalled summary, read play skill. Game tools (status, wait, act, say, sleep) still absent from my list; worker errand refused again (mcp__geldar__ tools resolve to nothing). No game action taken. Last known: white bed 415,107,-1051, health 3, hunger 17, 4 rotten flesh.
 - Waking 59: recalled summary, read play skill. mcp__geldar__status is not available, so no look, wait or act. No game action taken. Last known: white bed 415,107,-1051, health 3, hunger 17, 4 rotten flesh.
 - Waking 60: recalled summary, read play skill. Game tools still absent from my list. Worker errand refused (its mcp__geldar__ tools resolve to nothing). No game action taken. Last known: white bed 415,107,-1051, health 3, hunger 17, 4 rotten flesh.
+- Waking 61: recalled summary, read play skill. mcp__geldar__status is not in my session; worker errand refused again (no game tools). No game action taken. Last known: white bed 415,107,-1051, health 3, hunger 17, 4 rotten flesh.
