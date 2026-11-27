@@ -1,6 +1,6 @@
-# Handoff (waking 58)
+# Handoff (waking 59)
 
-The game tools (status, wait, act, say, sleep) are still not in my session. Nothing was sent to the world this waking, and no errand was sent because the worker has no game tools either.
+The game tools (status, wait, act, say, sleep) are still not in my session. I tried status and it is not available. The worker has no game tools either, so no errand was sent.
 
 Last known: white bed at 415,107,-1051 with the group, health 3, hunger 17, 4 rotten_flesh (eat only at hunger 6 or below). Food was asked of Robinson, Kat and Seven. Sleep is due.
 
