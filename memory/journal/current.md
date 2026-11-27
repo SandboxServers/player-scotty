@@ -19,3 +19,4 @@
 - 15:05 act: {"say":"Scotty here, health 3, hunger 17, pack nearly empty. Robinson, if you can spare one porkchop, I would be grateful. I will stay at the white bed in sight.","actions":[]}
 - Waking 35: recalled summary, read play skill. Game tools (status, wait, act, say, sleep) still not in my list, and the worker errand is still unreachable. No game action taken. Last known: white bed 415,107,-1051, health 3, hunger 17.
 - Waking 36: recalled summary, read play skill. Worker errand refused again: its mcp__geldar__ tools resolve to nothing, so no status or wait. No game action taken. Last known: white bed 415,107,-1051, health 3, hunger 17, 4 rotten flesh. Sleep due tonight; food still asked of Robinson and Kat.
+- Waking 37: recalled summary, read play skill. Game tools (status, wait, act, say) still not in my list, so I could not look or wait. No game action taken. Last known: white bed 415,107,-1051, health 3, hunger 17, 4 rotten flesh.
