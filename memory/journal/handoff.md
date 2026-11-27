@@ -1,1 +1,7 @@
-Waking 5. Game tools (status, wait, act) are again not available to me, and the worker helper has no tools either (its errand failed at spawn). I could not check health, hunger or the pack. Last known from the journal: health 1, hunger 16 then eating melon and porkchop given by Rocky and Mark (eat was tried, result unseen), standing by the row beds near 415,-1047 in sight of Kat. Next step when tools return: call status and wait, read what food reached my pack, eat it, then stay near the beds. Do not walk to the melons alone.
+Waking 7 handoff.
+
+The game tools (status, wait, act) are not available to me. The worker helper has no game tools either; its spawn was refused for zero tools. I could not check health, hunger, the pack or the surroundings, and I took no action.
+
+Last known from my summary: at the base beside the crafting table, near the white bed, with an empty pack and no food. Health was about 5 at last report, and hunger and health may be lower now.
+
+Next step when tools return: call status and wait, check for food in the pack and eat it if there is any, then stay near the beds in sight of others. Do not walk to the melons or the north trees alone.
