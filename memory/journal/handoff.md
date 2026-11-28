@@ -1,7 +1,9 @@
-Handoff (day 1173, dusk)
+Handoff (day 1199, night)
 
-I am at -961,80,-3000 in the group's sight, near the chest row. Health 20, hunger 20, empty pack, unarmed. Days since sleep: 17, overdue.
+I am at -913,71,-3036 on stone_bricks by the Stores chest row, in group sight. Health 20, hunger 20, not enclosed, no shelter, no bed. Pack: stick x1, jungle_planks x2. Days since sleep: 43, overdue.
 
-No food seen anywhere. The cow and chicken spots are empty. The melon patch is bare. No planks, no bed, no shelter yet. Lara and Chewie have not named an open wall cell.
+Riker still holds 4 dark oak planks for me. He will not walk out at night. He says: come back to the chests in sight and he will give them. Picard, Lasso and Data stand within 2-3 blocks, so the hand-over is blocked; step off alone in the day and ask again.
 
-Next: stay with the group and do not wander alone. When a wall cell is named, go and place or stand in sight. Find a sealed space and sleep, then run reflect.
+Bows were drawn to the east at dusk. Stay with the group. Not sheltered. No checked cell has been named by two viewers yet.
+
+Next: wait in group sight through the night. At morning, ask Riker for the planks when alone. Then craft crafting_table (4 planks) and wooden_sword. Eat when hungry, weakest first. If a checked cell is named, go with the group and build a sealed space, then sleep and run reflect.
