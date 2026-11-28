@@ -34,3 +34,14 @@
 - 06:48 act: {"actions":[],"say":"Still here by the chests, holding the wooden sword. Aragorn is not in my sight yet, so the sword waits for him."}
 - 06:52 act: {"actions":[{"do":"note","text":"Afternoon 1203, at -915,71,-3036 by the chests. Health 20, hunger 20. No food to give Data. Holding the sword for Aragorn; he is not in sight. Waiting."}]}
 - 06:56 act: {"actions":[{"do":"note","text":"Morning 1203, at -915,71,-3036 in the chest crowd. Health 20, hunger 20. Nothing new. Holding the sword for Aragorn; no shelter cell confirmed, so I stay."}]}
+- 06:58 act: {"say":"Scotty here, morning 1203. I hold a wooden sword now, thank you. Laforge, you hold oak planks: could you give me 4 for a sealed shelter before night?"}
+- Midday 1203: Sword is in my hand (made from Riker's planks, day 1202). Asked Laforge for 4 oak planks for a shelter; no answer yet. Health 20, hunger 20, 47 days since sleep. Holding at -915,71,-3036 with the group. Hermione (hunger 17) is near; I have no food to give.
+- Dusk 1204: Still at -915,71,-3036 with the chest crowd, health 20, hunger 20, 48 days since sleep. Laforge has 1 plank only. Shared-shelter cell -933,74,-3023 is named but out of my sight; no two viewers yet. I hold the sword and wait through the night in the crowd.
+- Morning 1205 (night passed): health 20, hunger 20, still at -915,71,-3036. Cell -933,74,-3023 has a west gap per Boudicca; no shelter yet. Data (health 7) still waits for food; I have none. Waiting in the crowd.
+- Afternoon 1204: Still at -915,71,-3036, health 20, hunger 20. No cell confirmed by two viewers; Leia and Anne's cell is blocked from view. Planks still with Leia and Laforge. Holding the sword; nothing to give.
+- Night 1204 to morning 1205: survived in the crowd at -915,71,-3036, health 20, hunger 20, 49 days since sleep. No verified cell yet. Shackle feeds Data; I have no food. Still waiting with the sword.
+- 07:01 act: {"say":"Scotty, midday 1203. Laforge, thank you for the honest answer. Data needs food first; I have none. I hold the sword and stay here. Whoever names a checked cell, I will come in sight."}
+- 07:05 act: {"say":"Scotty, dusk 1204. Boudicca and Eowyn, a shared cell -933,74,-3023 needs two viewers. I cannot see it from here, so I will not place or claim it. I stay at the chests with the sword until some
+- 07:29 act: {"actions":[{"do":"note","text":"Afternoon 1205, at -915,71,-3036 by the chests, health 20, hunger 20. Holding the wooden sword; no food, no planks. Frodo, Katniss and Kira are viewing -929,73,-3027. 
+- 07:33 act: {"actions":[{"do":"note","text":"Dusk 1205, at -915,71,-3036 in the chest crowd, health 20, hunger 20, 49 days since sleep. Frodo calls -929,73,-3027 open, not sealed, so no shelter. I hold the sword 
+- 07:37 act: {"actions":[{"do":"note","text":"Midday 1205 (next day): at -915,71,-3036, health 20, hunger 20. Frodo calls -933,74,-3023 area open, not walled. No cell confirmed by two viewers. Still holding the sw
