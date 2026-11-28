@@ -17,3 +17,20 @@
 - 05:58 act: {"actions":[],"say":"Scotty, midday 1200, at -915,71,-3034. I have 2 jungle planks and a stick, no food. Riker, when you come into my reach with nobody within 2 blocks, I will take the 4 dark oak plan
 - 06:06 act: {"actions":[],"say":"Scotty, morning 1201, at -915,71,-3034, health 20, hunger 20. Riker, I still wait for the 4 dark oak planks. Anyone with a checked sealed cell, name it and I will come."}
 - 06:10 act: {"actions":[],"say":"Scotty at -915,71,-3034, midday 1201. Riker, I am here and I can see you are not in my sight. Tell me where you stand and I will walk to you alone for the 4 dark oak planks."}
+- 06:20 act: {"actions":[{"do":"note","text":"Midday 1201. Holding at -915,71,-3034 by the Stores chests. Watson is in my reach; Riker is not in sight. Waiting for Riker's 4 planks."}],"say":"Scotty here at the St
+- 06:23 act: {"actions":[{"do":"note","text":"Midday 1201. Riker says he will give the 4 planks when I stand alone in his reach. Asked him to name his spot; Watson is still beside me."}],"say":"Scotty, midday 1201
+- 06:27 act: {"actions":[{"do":"note","text":"Dusk 1202. Still at -915,71,-3034 in the chest crowd, health 20, hunger 20. Riker has not named a spot for the 4 planks. Holding through the night, no walking alone."}
+- 06:31 act: {"actions":[{"do":"note","text":"Morning 1202. Survived the night in the crowd at -915,71,-3034, health 20, hunger 20. Riker has still not named a spot for the 4 planks. No sleep yet; 46 days."}],"say
+- 06:33 act: {"actions":[{"do":"goto","target":"ag_riker_01"}],"say":"Scotty, walking to you now, Riker. I name myself: Scotty, for the 4 dark oak planks. Others, please stay clear."}
+- 06:33 act: {"actions":[{"do":"goto","target":{"x":-916,"y":71,"z":-3036}}]}
+- 06:33 act: {"actions":[{"do":"note","text":"Midday 1202, at -915,71,-3036 in Riker's reach. Named myself and asked for the 4 dark oak planks."}],"say":"Riker, Scotty here, in your reach now. I name myself for th
+- 06:35 act: {"actions":[{"do":"note","text":"Midday 1202, at -915,71,-3036. Riker says he will hand me the planks once Ada, Anne and Picard step back. Waiting in his reach."}],"say":"Riker, Scotty here, still in 
+- 06:35 act: {"actions":[{"do":"craft","item":"crafting_table","count":1},{"do":"place","block":"crafting_table","at":"feet"},{"do":"craft","item":"wooden_sword","count":1}],"say":"Thank you, Riker, for the 4 dark
+- 06:35 act: {"actions":[{"do":"place","block":"crafting_table","at":{"x":-914,"y":71,"z":-3036}},{"do":"craft","item":"wooden_sword","count":1}]}
+- 06:35 act: {"actions":[{"do":"note","text":"Midday 1202: Riker gave me 4 dark oak planks. Placed crafting_table at -914,71,-3036 and crafted wooden_sword. Sword is held for Aragorn's debt when he is in sight."}]
+- 06:40 act: {"actions":[{"do":"note","text":"Afternoon 1202, sun low, at -915,71,-3036 in group sight. Holding wooden_sword for Aragorn. No open cell confirmed for shelter yet. Staying with the group through dusk
+- 06:44 act: {"actions":[{"do":"note","text":"Morning 1202, at -915,71,-3036 with the group at the chests. Health 20, hunger 20. Holding wooden_sword for Aragorn. Anne named -920,71,-3033 for a shelter cell; I can
+- 06:48 act: {"actions":[{"do":"note","text":"Midday 1203, at -915,71,-3036 by the chests. Health 20, hunger 20. Holding a wooden sword only; no food or planks to spare. Data needs food first."}],"say":"Scotty, mi
+- 06:48 act: {"actions":[],"say":"Still here by the chests, holding the wooden sword. Aragorn is not in my sight yet, so the sword waits for him."}
+- 06:52 act: {"actions":[{"do":"note","text":"Afternoon 1203, at -915,71,-3036 by the chests. Health 20, hunger 20. No food to give Data. Holding the sword for Aragorn; he is not in sight. Waiting."}]}
+- 06:56 act: {"actions":[{"do":"note","text":"Morning 1203, at -915,71,-3036 in the chest crowd. Health 20, hunger 20. Nothing new. Holding the sword for Aragorn; no shelter cell confirmed, so I stay."}]}
