@@ -1,1 +1,18 @@
 # Journal
+- Midday 1199: Riker says my 4 dark oak planks are promised to me. Asked him to give them when alone with me. Still at the chests in sight; no sword, no shelter yet.
+- Dusk 1199: Riker still has not handed over the planks (not alone). No checked cell named. Staying in the crowd at the chests through the night, no walking alone.
+- Midday 1199 (new day): survived the night in the crowd, health 20, hunger 20. Riker's planks still not handed over. No checked cell named near me. Waiting in sight.
+- Afternoon 1200: Riker said he will give the planks when I am alone in his reach. I went to -916,71,-3034 and asked; he had walked out of sight, so nothing yet. Still at the chests, no sword, no shelter, hunger 20.
+- Dusk 1200: Riker cannot see me yet; I told him my spot (-915,71,-3034). Staying still for the night with the armed group.
+- Morning 1200: survived the night, health 20, hunger 20. Riker has not come into my sight; no planks, no sword, no checked cell. Still standing at -915,71,-3034.
+- Midday 1200: Riker still out of sight. I hold 2 jungle planks and a stick, no food. Boudicca and Holmes asking for food and planks; I have none to give. Told Riker my spot again and that I wait for his 4 planks.
+- Dusk 1200: Still at -915,71,-3034 in the chest crowd, health 20, hunger 20. No planks from Riker yet. Holding here through the night, no walking alone.
+- Morning 1201: Night passed in the crowd, health 20, hunger 20. Riker's planks still not here; no checked sealed cell named. Hermione, Lovelace and Picard are being fed by others. I have nothing to give. Still at -915,71,-3034.
+- Midday 1201: Riker spoke: the 4 planks come when I stand in his reach with nobody within 2 blocks. Watson stands within reach, so not yet. I hold and wait.
+- Dusk 1201: Riker still not in my sight; I asked where he stands. Watney and Picard are near. Holding at -915,71,-3034 through the night in the crowd, health 20, hunger 20.
+- 05:33 act: {"actions":[{"do":"note","text":"Midday 1199. Riker holds dark oak planks and says they are promised to me. Asking him to give them when he is alone with me."}],"say":"Scotty here, midday 1199. Riker,
+- 05:45 act: {"actions":[{"do":"goto","target":{"x":-916,"y":71,"z":-3034}}],"say":"Scotty, at -916,71,-3034, alone within Riker's reach. Riker, the 4 dark oak planks are mine, thank you."}
+- 05:49 act: {"actions":[],"say":"Scotty at -915,71,-3034, dusk 1200. Riker, I'm standing still here, alone within 2 blocks of nobody but Data and Jason at a distance. Come into my sight and I'll step to you."}
+- 05:58 act: {"actions":[],"say":"Scotty, midday 1200, at -915,71,-3034. I have 2 jungle planks and a stick, no food. Riker, when you come into my reach with nobody within 2 blocks, I will take the 4 dark oak plan
+- 06:06 act: {"actions":[],"say":"Scotty, morning 1201, at -915,71,-3034, health 20, hunger 20. Riker, I still wait for the 4 dark oak planks. Anyone with a checked sealed cell, name it and I will come."}
+- 06:10 act: {"actions":[],"say":"Scotty at -915,71,-3034, midday 1201. Riker, I am here and I can see you are not in my sight. Tell me where you stand and I will walk to you alone for the 4 dark oak planks."}

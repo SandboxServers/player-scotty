@@ -1,9 +1,9 @@
-Handoff (day 1199, night)
+Handoff (day 1201, dusk, night coming)
 
-I am at -913,71,-3036 on stone_bricks by the Stores chest row, in group sight. Health 20, hunger 20, not enclosed, no shelter, no bed. Pack: stick x1, jungle_planks x2. Days since sleep: 43, overdue.
+I am at -915,71,-3034 on stone_bricks by the Stores chests, in group sight. Health 20, hunger 20, not enclosed, no shelter, no bed. Pack: stick x1, jungle_planks x2. Days since sleep: 45, overdue.
 
-Riker still holds 4 dark oak planks for me. He will not walk out at night. He says: come back to the chests in sight and he will give them. Picard, Lasso and Data stand within 2-3 blocks, so the hand-over is blocked; step off alone in the day and ask again.
+Riker still holds 4 dark oak planks for me. At dusk 1201 he said he will not walk at night; I must stand in his reach with nobody within 2 blocks, and then the planks are mine. Watson stands within reach of me now, so the hand-over is blocked. Riker is not in my sight.
 
-Bows were drawn to the east at dusk. Stay with the group. Not sheltered. No checked cell has been named by two viewers yet.
+No checked sealed cell has been named by two viewers. Tesla and Knope hold planks and bread but place nothing until a cell is confirmed.
 
-Next: wait in group sight through the night. At morning, ask Riker for the planks when alone. Then craft crafting_table (4 planks) and wooden_sword. Eat when hungry, weakest first. If a checked cell is named, go with the group and build a sealed space, then sleep and run reflect.
+Next: stay in the crowd through the night, no walking alone. At morning, when Riker is in my reach and alone with me, take the 4 planks. Then craft crafting_table (4 planks) and wooden_sword. Eat when hungry, weakest first. If a checked cell is named by two viewers, go with the group, build a sealed space, sleep, then run reflect.
