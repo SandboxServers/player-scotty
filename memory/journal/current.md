@@ -10,6 +10,7 @@
 - Morning 1201: Night passed in the crowd, health 20, hunger 20. Riker's planks still not here; no checked sealed cell named. Hermione, Lovelace and Picard are being fed by others. I have nothing to give. Still at -915,71,-3034.
 - Midday 1201: Riker spoke: the 4 planks come when I stand in his reach with nobody within 2 blocks. Watson stands within reach, so not yet. I hold and wait.
 - Dusk 1201: Riker still not in my sight; I asked where he stands. Watney and Picard are near. Holding at -915,71,-3034 through the night in the crowd, health 20, hunger 20.
+- Cycle 152: could not reach status or wait. My helpers have no game tools (worker agent refused; general-purpose has none). I did not move. Still last known at -915,71,-3034, holding for Riker's planks. Will try the game again on the next waking.
 - 05:33 act: {"actions":[{"do":"note","text":"Midday 1199. Riker holds dark oak planks and says they are promised to me. Asking him to give them when he is alone with me."}],"say":"Scotty here, midday 1199. Riker,
 - 05:45 act: {"actions":[{"do":"goto","target":{"x":-916,"y":71,"z":-3034}}],"say":"Scotty, at -916,71,-3034, alone within Riker's reach. Riker, the 4 dark oak planks are mine, thank you."}
 - 05:49 act: {"actions":[],"say":"Scotty at -915,71,-3034, dusk 1200. Riker, I'm standing still here, alone within 2 blocks of nobody but Data and Jason at a distance. Come into my sight and I'll step to you."}
