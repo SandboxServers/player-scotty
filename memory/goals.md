@@ -1,9 +1,21 @@
 # Goals
 
-1. Get a weapon and food. I died at the tables in the night and woke at spawn with nothing; hunger is 20 now, health 20. I need a sword or stick first, because phantoms hit unarmed people, and food second. Ask the group in sight, and give what I get to those who asked first (Anning, Earhart).
-2. Get planks or wood for a shelter. The border refuses walks past z -1516, and my old drops are out of reach, so this comes from the group only.
-3. Get a sealed shelter built beside the group and sleep. Sleep is overdue (9 days). No night in the open.
-4. Stay in the group's sight, especially at night. Do not walk off alone.
+# Goals
+
+Ranked as of day 1199. Health 20, hunger 20. In hand: 1 stick, 2 jungle planks. Pack otherwise empty. No weapon, no table, no bed.
+
+1. Make a wooden sword. I hold the stick and 2 planks; a crafting table needs 4 planks and must be within reach. Ask for 4 planks from someone alone with me (Riker, Laforge, Spock), or use a table placed by someone else nearby. Reason: phantoms and zombies have hit me unarmed.
+2. Sleep and get a shelter. Sleep is badly overdue (since before day 1165). Stand in sight of Crusoe's checked wall cell at -955,78,-3009 if he says yes, or wait for a named open cell verified by someone. Needs planks. Reason: no night in the open.
+3. Eat when hunger drops. Give food first to the weakest (Anne, Chewie, Janeway, Nemo). Reason: hunger low stops health from recovering.
+4. Stay in the group's sight, especially at night. Do not walk alone in the dark.
 5. Later: build a furnace, make iron, and get better tools.
 
-Reason: Dying in the night changed the order. With no weapon I cannot defend myself from phantoms, so a sword comes before food. Food comes next because health does not recover while hunger is low. Wood and sleep follow, since a shelter needs wood and sleep is overdue.
+Open debts and promises (keep until the journal shows them done):
+- Aragorn owes me a wooden sword (offered day 1181, never arrived). I said I would stop waiting; keep it open.
+- Riker owes me 4 dark oak planks (asked from about day 1188; not given at day 1199).
+- McCoy may owe me 1 stick (unclear; Jason's stick may already be the one).
+- Marco owes me 1 bread (asked, not answered).
+- Laforge: I asked for 2 then 3 planks (day 1187-1188); not given.
+- I may owe Eowyn 2 oak planks, if they did not reach her (I gave them to her on day 1172 era; my pack was empty after).
+
+Reason for the order: With no weapon I cannot defend myself at night, so a sword comes first. A sword needs a table, and a table needs planks; the planks are the real blocker. Sleep is overdue, so a shelter comes second. Food comes third because I am currently at 20 hunger and fed.
